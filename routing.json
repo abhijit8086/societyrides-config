@@ -1,5 +1,5 @@
 {
   "min_app_version": "1.0.0",
-  "default_api": "https://api.societyrides.com",
+  "default_api": "https://api.societyrides.com/",
   "regions": {}
 }
