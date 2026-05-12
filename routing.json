@@ -1,5 +1,5 @@
 {
   "min_app_version": "1.0.0",
-  "default_api": "https://uncledroid.app/CarpoolApp/api/",
+  "default_api": "https://api.societyrides.com",
   "regions": {}
 }
